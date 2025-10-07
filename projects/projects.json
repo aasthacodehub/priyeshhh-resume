@@ -1,0 +1,32 @@
+[
+  {
+    "name": "FraudSense – AI-powered anomaly and fraud detection system",
+    "desc": "FraudSense is an intelligent system designed to detect unusual patterns and potential fraud in real time. It leverages machine learning algorithms such as Isolation Forest, Random Forest, and Autoencoders to identify anomalies in datasets. The system continuously monitors data streams, flags suspicious activities, and provides actionable insights through an interactive dashboard. This project aims to enhance data security, prevent financial losses, and ensure system integrity across multiple domains.",
+    "image": "assets/images/projects/project1.png",
+    "links": { "view": "#", "code": "#" }
+  },
+  {
+    "name": "ScrapeSense – Smart web scraping and analytics system",
+    "desc": "ScrapeSense is a smart web scraping and analytics system that automates data extraction from multiple websites using Python. It collects, cleans, and organizes web data for analysis and visualization.",
+    "image": "assets/images/projects/project2.png",
+    "links": { "view": "#", "code": "#" }
+  },
+  {
+    "name": "DataMine – Intelligent data extraction and transformation system",
+    "desc": "DataMine is an intelligent system designed to automate the extraction, cleaning, and transformation of data from multiple online sources. It streamlines data collection using smart scraping techniques and converts unstructured information into organized, actionable datasets for analysis and reporting.",
+    "image": "assets/images/projects/project3.png",
+    "links": { "view": "#", "code": "#" }
+  },
+  {
+    "name": "RESTful API Development & Integration – emphasizes working with REST APIs.",
+    "desc": "Developed and integrated RESTful APIs to enable seamless communication between front-end and back-end systems, ensuring efficient data exchange and real-time functionality. Implemented endpoints for CRUD operations, authentication, and data validation to enhance application performance and reliability.",
+    "image": "assets/images/projects/project4.png",
+    "links": { "view": "#", "code": "#" }
+  },
+  {
+    "name":"MultiCLI – Group Chat Application:",
+    "desc": "A real-time group chat application enabling seamless messaging and collaboration among multiple users, built using client-server architecture and socket programming.",
+    "image": "assets/images/projects/project5.png",
+    "links": { "view": "#", "code": "#" }
+  }
+]
